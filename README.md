@@ -3,9 +3,6 @@
 Home
 ====
 
-[Home](index.html)
-------------------
-
 ### Modules
 
 For more details about component click on JS.
