@@ -8,7 +8,7 @@ Home
 
 ### Modules
 
-*   [js](customToast.module_js.html)
+*   [js](out/customToast.module_js.html)
 
   
 
