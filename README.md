@@ -8,7 +8,10 @@ Home
 
 ### Modules
 
-*   [js](out/customToast.module_js.html)
+For more details about component click on JS.
+
+
+*   [JS](https://htmlpreview.github.io/?https://github.com/SRKT10950/customToast/blob/master/out/customToast.module_js.html)
 
   
 
